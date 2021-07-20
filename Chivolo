@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF: 1, Super Sports Premier
+http://starjktv.com:8080/live/best/best123/17188.m3u8
+#EXTINF: 1, Super Sports Futbol
+http://starjktv.com:8080/live/best/best123/17682.m3u8
+#EXTINF: 1, SKY Premier League
+http://starjktv.com:8080/live/best/best123/12138.m3u8
+#EXTINF: 1, SKY Football
+http://starjktv.com:8080/live/best/best123/20246.m3u8
+#EXTINF: 1, FS1
+http://starjktv.com:8080/live/best/best123/12456.m3u8
+#EXTINF: 1, FS2
+http://starjktv.com:8080/live/best/best123/12457.m3u8
+#EXTINF: 1, SKY Sport Italia
+http://starjktv.com:8080/live/best/best123/24401.m3u8
+#EXTINF: 1, SKY Football Italia
+http://starjktv.com:8080/live/best/best123/24390.m3u8
+#EXTINF: 1, GOL España
+http://starjktv.com:8080/live/best/best123/97736.m3u8
+#EXTINF: 1, Movistar La Liga Bar
+http://starjktv.com:8080/live/best/best123/97739.m3u8
+#EXTINF: 1, Liga de Campeones
+http://starjktv.com:8080/live/best/best123/97744.m3u8
+#EXTINF: 1, Liga de Campeones2
+http://starjktv.com:8080/live/best/best123/97745.m3u8
+#EXTINF: 1, HBO
+http://208.88.246.11:4153/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF: 1, HBO 2
+http://208.88.246.11:4153/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
